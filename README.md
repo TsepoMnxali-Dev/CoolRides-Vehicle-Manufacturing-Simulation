@@ -11,7 +11,7 @@ The system demonstrates how multiple **Gang of Four (GoF) Design Patterns** can 
 ## 🎥 Demo
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ytIICe8vyQ-Dcjn0lvbNulTEcsHcREbq/view?usp=drive_link">
+  <a href="https://www.dropbox.com/scl/fi/upf7cpb86rn0dontlo8bq/CoolRides-Vehicle-Manufacturing-System-Demo.mov?rlkey=vl66r4flgdgetgbosdjczuyzl&st=lq0jha0l&dl=0">
     ▶️ <strong>Watch the CoolRides Demo</strong>
   </a>
 </p>
