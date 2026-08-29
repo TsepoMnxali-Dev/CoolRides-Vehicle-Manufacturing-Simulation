@@ -6,6 +6,8 @@ CoolRides simulates a manufacturing environment where **Cars** and **Minibuses**
 
 The system demonstrates how multiple **Gang of Four (GoF) Design Patterns** can work together to create a structured, scalable, and thread-safe manufacturing pipeline.
 
+![image alt](https://github.com/TsepoMnxali-Dev/CoolRides-Vehicle-Manufacturing-Simulation/blob/72fcca5f4c1f8b9829779b8561d34d250b353931/CoolRides.png)
+
 ---
 
 ## 🏭 System Overview
