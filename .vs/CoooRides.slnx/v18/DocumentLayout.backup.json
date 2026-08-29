@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\gcini\\documents\\irud301\\cooorides\\cooorides\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\gcini\\documents\\irud301\\cooorides\\cooorides\\spraybooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\spraybooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\gcini\\documents\\irud301\\cooorides\\cooorides\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\gcini\\documents\\irud301\\cooorides\\cooorides\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\gcini\\documents\\irud301\\cooorides\\cooorides\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\gcini\\documents\\irud301\\cooorides\\cooorides\\assemblylines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\assemblylines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\gcini\\documents\\irud301\\cooorides\\cooorides\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\gcini\\documents\\irud301\\cooorides\\cooorides\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\ICommand.cs",
+              "RelativeDocumentMoniker": "CoooRides\\ICommand.cs",
+              "ToolTip": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\ICommand.cs",
+              "RelativeToolTip": "CoooRides\\ICommand.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:39:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyLines.cs",
+              "DocumentMoniker": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\AssemblyLines.cs",
+              "RelativeDocumentMoniker": "CoooRides\\AssemblyLines.cs",
+              "ToolTip": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\AssemblyLines.cs",
+              "RelativeToolTip": "CoooRides\\AssemblyLines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:33:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spraybooth.cs",
+              "DocumentMoniker": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Spraybooth.cs",
+              "RelativeDocumentMoniker": "CoooRides\\Spraybooth.cs",
+              "ToolTip": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Spraybooth.cs",
+              "RelativeToolTip": "CoooRides\\Spraybooth.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:29:57.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMobile.cs",
+              "DocumentMoniker": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\AutoMobile.cs",
+              "RelativeDocumentMoniker": "CoooRides\\AutoMobile.cs",
+              "ToolTip": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\AutoMobile.cs",
+              "RelativeToolTip": "CoooRides\\AutoMobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:22:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Program.cs",
+              "RelativeDocumentMoniker": "CoooRides\\Program.cs",
+              "ToolTip": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Program.cs",
+              "RelativeToolTip": "CoooRides\\Program.cs",
+              "ViewState": "AgIAAAMAAAAA1MzMzMzkvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:07:40.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Form1.cs",
+              "RelativeDocumentMoniker": "CoooRides\\Form1.cs",
+              "ToolTip": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Form1.cs",
+              "RelativeToolTip": "CoooRides\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:01:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Form1.resx",
+              "RelativeDocumentMoniker": "CoooRides\\Form1.resx",
+              "ToolTip": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Form1.resx",
+              "RelativeToolTip": "CoooRides\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T12:04:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Form1.cs",
+              "RelativeDocumentMoniker": "CoooRides\\Form1.cs",
+              "ToolTip": "C:\\Users\\gcini\\Documents\\IRUD301\\CoooRides\\CoooRides\\Form1.cs [Design]",
+              "RelativeToolTip": "CoooRides\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:43:51.08Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

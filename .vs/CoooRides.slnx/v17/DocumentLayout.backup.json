@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|c:\\users\\tsepo\\onedrive\\desktop\\coolrides assigment\\coolrides\\cooorides\\cooorides\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\cooorides\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\cooorides\\spraybooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\spraybooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\cooorides\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\cooorides\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\cooorides\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\cooorides\\assemblylines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90140F-5D41-4D04-93EE-5C1604DD1B22}|CoooRides\\CoooRides.csproj|solutionrelative:cooorides\\assemblylines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\Form1.cs",
+              "RelativeDocumentMoniker": "CoooRides\\Form1.cs",
+              "ToolTip": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\Form1.cs",
+              "RelativeToolTip": "CoooRides\\Form1.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAtwHIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T22:12:31.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\Form1.cs",
+              "RelativeDocumentMoniker": "CoooRides\\Form1.cs",
+              "ToolTip": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\Form1.cs [Design]",
+              "RelativeToolTip": "CoooRides\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T22:12:02.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spraybooth.cs",
+              "DocumentMoniker": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\Spraybooth.cs",
+              "RelativeDocumentMoniker": "CoooRides\\Spraybooth.cs",
+              "ToolTip": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\Spraybooth.cs",
+              "RelativeToolTip": "CoooRides\\Spraybooth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T21:53:38.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\Program.cs",
+              "RelativeDocumentMoniker": "CoooRides\\Program.cs",
+              "ToolTip": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\Program.cs",
+              "RelativeToolTip": "CoooRides\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T21:53:36.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\ICommand.cs",
+              "RelativeDocumentMoniker": "CoooRides\\ICommand.cs",
+              "ToolTip": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\ICommand.cs",
+              "RelativeToolTip": "CoooRides\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T21:53:34.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMobile.cs",
+              "DocumentMoniker": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\AutoMobile.cs",
+              "RelativeDocumentMoniker": "CoooRides\\AutoMobile.cs",
+              "ToolTip": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\AutoMobile.cs",
+              "RelativeToolTip": "CoooRides\\AutoMobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T21:53:30.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyLines.cs",
+              "DocumentMoniker": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\AssemblyLines.cs",
+              "RelativeDocumentMoniker": "CoooRides\\AssemblyLines.cs",
+              "ToolTip": "C:\\Users\\tsepo\\OneDrive\\Desktop\\CoolRides Assigment\\CoolRides\\CoooRides\\CoooRides\\AssemblyLines.cs",
+              "RelativeToolTip": "CoooRides\\AssemblyLines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T21:53:21.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
